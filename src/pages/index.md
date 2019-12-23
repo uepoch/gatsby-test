@@ -1,13 +1,13 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Title
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Heading
+subheading: SubHeading
 mainpitch:
-  title: Why Kaldi
+  title: Why <Company>
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
+    <Company> is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
@@ -45,6 +45,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+    - image: /img/coffee-gear.png
+      text: We added this image because I needed to test something
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -68,3 +70,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
